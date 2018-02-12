@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1468658454 source:c:\users\mic\downloads\graphs\social-network.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+

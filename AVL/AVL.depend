@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468652532 source:c:\users\mic\desktop\avl\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

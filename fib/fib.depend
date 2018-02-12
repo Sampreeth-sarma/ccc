@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468735167 source:c:\users\mic\desktop\fib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

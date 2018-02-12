@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468562371 source:c:\users\mic\desktop\wordamnet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

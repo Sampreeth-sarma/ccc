@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468575562 source:c:\users\mic\desktop\bst\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+
